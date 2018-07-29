@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinLearning</string>
+    <string name="fibo_instrksn">Select number up to which Fibonacci series to print</string>
+    <string name="prime_instrksn">Enter number to check if prime or not</string>
+    <string name="prime_number_hint">Enter number here</string>
+    <string name="palindrome_instrksn">Enter a String to check if it is palindrome.</string>
+    <string name="palindrome_string_hint">Enter String here</string>
+    <string name="number_palindrome_instrksn">Enter a number to check if it is palindrome.</string>
+    <string name="number_armstrong_instrksn">Enter a number to check if it is Armstrong number.</string>
+</resources>
